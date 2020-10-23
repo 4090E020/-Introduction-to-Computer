@@ -1,4 +1,4 @@
-# OSI 開放式系統互聯模型 (Open System Interconnection Model)
+#OSI 開放式系統互聯模型 (Open System Interconnection Model)
 ``````
 
 OSI將電腦網路體系結構劃分為以下七層，標有1～7，第1層在底部
